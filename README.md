@@ -12,7 +12,7 @@ Este bot foi criado por Lucas Queiroga para facilitar o gerenciamento de canais 
 
 ### 1. Adicionando o Bot ao Servidor
 
-1. Clique [neste link](https://discord.com/oauth2/authorize?client_id=1305490732605374535&permissions=268504080&integration_type=0&scope=bot+applications.commands) para convidar o bot
+1. Clique <a href="https://discord.com/oauth2/authorize?client_id=1305490732605374535&permissions=268504080&integration_type=0&scope=bot+applications.commands" target="_blank">neste link</a> para convidar o bot
 2. Selecione o servidor onde deseja adicionar o bot
 3. Clique em "Autorizar"
 4. Complete a verificação do CAPTCHA se solicitado
