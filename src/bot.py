@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-CARGOS_PERMITIDOS = ["Cargo Teste"]
+CARGOS_PERMITIDOS = ["channel_manager"]
 
 intents = discord.Intents.default()
 intents.message_content = True
